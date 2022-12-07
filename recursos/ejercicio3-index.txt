@@ -1,0 +1,29 @@
+Bienvenido a Aperture Science
+
+Instalaciones
+
+Las instalaciones de Aperture son un enorme complejo dividido básicamente en dos partes: las instalaciones antiguas puestas en operación desde los años 1950 hasta alrededor de los años 1980 y las instalaciones nuevas que funcionan desde la década de 1990.
+
+La primera es la más profunda y llegan a una profundidad de alrededor de 5 km bajo la superficie y se encuentran construidas en lo que antiguamente fue una mina de sal, que fue adquirida por el fundador Cave Johnson. Estas instalaciones cuentan con varios tiros dentro de los cuales se encuentran unas estructuras geodésicas dentro de las cuales se construyen cámaras de prueba para analizar diversos tipos de inventos; estas estructuras se encuentran en grupos de 9 por cada tiro y cada tres estructuras se encuentra una zona de oficinas que es donde se localiza el elevador que conduce a la superficie. Dentro de esta primera zona se localiza una especie de muelle o de dique seco donde se cree que se encontraba el mítico carguero Borealis.
+
+La otra zona, que es la más superficial y que se encuentra sobre el complejo antiguo de laboratorios, es la más nueva, y cuenta con una zona donde se almacenan una serie de habitaciones en donde se encuentran los sujetos de prueba. Estos módulos son almacenados como contenedores, que pueden ser transportados a donde se los necesite. Otro sector de las instalaciones es la zona de fabricación de torretas y almacenamiento de neurotoxinas, así como de cubos de contrapeso y demás elementos útiles para las pruebas. Una de las zonas más profundas de estas instalaciones es el enorme incinerador el cual está conectado por medio de ductos a todos las compuertas de incineración en el complejo.
+
+Finalmente en estas instalaciones nuevas se encuentra la zona de cámaras de prueba, una enorme zona donde se encuentran las estructuras que componen las cámaras de pruebas. Estas cámaras se mueven por rieles, y cuentan con oficinas desde las cuales se podía observar a los sujetos de prueba antes del incidente causado por GLaDOS. En esta zona también se encuentran algunos complejos de oficinas y la cámara principal, donde GLaDOS habita y donde se encuentra la cámara de interruptores, es por esto que esta cámara es el corazón de las instalaciones, ya que desde aquí se controla la totalidad de los laboratorios.
+
+Invenciones
+Se enumeran a continuación las mayores invenciones desarrolladas por Aperture:
+
+Pistola de portales (https://theportalwiki.com/wiki/Handheld_Portal_Device)
+Genetic Lifeform and Disk Operating System (https://theportalwiki.com/wiki/GLaDOS)
+Torretas (https://theportalwiki.com/wiki/Turrets)
+Weighted Companion Cube (https://theportalwiki.com/wiki/Weighted_Companion_Cube)
+
+Personal
+Entre nuestro personal, se encuentra:
+
+Cave Johnson
+Caroline
+Doug Rattmann
+Greg
+Henry
+GordonFreeman
